@@ -44,3 +44,20 @@ you just hace to run
 ```sh
 -> pip install -r requirements.txt
 ```
+
+# Rquests
+* When you want to make a HTTP request with python this is the library you will use
+```sh
+-> pip install requests
+-> cd web-server
+-> python3 main.py
+```
+
+# Create your own web server 
+You can also create your own web server with Python and Fast API
+```sh
+-> pip install fastapi
+-> pip install "uvicorn[standard]"
+-> cd web-server
+-> uvicorn main:app --reload
+```

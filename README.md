@@ -1,6 +1,6 @@
 # Welcome
 
-* To run rock, paper, scissors please run the next command:
+* To play rock, paper, scissors please run the next command:
 
 ```sh
 -> cd game
